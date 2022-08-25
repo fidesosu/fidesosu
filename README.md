@@ -6,4 +6,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=spuqe&show_icons=true&theme=calm" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=jacobreidwd&color=)
+![](https://komarev.com/ghpvc/?username=jacobreidwd&color=373f51)
