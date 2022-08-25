@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidesosu&theme=calm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidesosu&layout=compact&theme=calm" />
 </p>
 
 <p>
@@ -7,5 +7,3 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=fidesosu&color=c5705d)
-
-//373f51
