@@ -7,7 +7,7 @@
 </p>
 
 <p> 
-  <h1 align="center">Visitor count since 2022<br>
+  <h1 align="top-left">Visitor count since 2022<br>
   <img src="https://profile-counter.glitch.me/fidesosu/count.svg" />
     </h1>
 </p>
