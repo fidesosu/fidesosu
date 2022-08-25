@@ -1,1 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidesosu)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidesosu&layout=compact&theme=moltack" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=spuqe&show_icons=true&theme=moltack" />
+</p>
+
+<p> 
+  <h1 align="center">Visitor count since 2022<br>
+  <img src="https://profile-counter.glitch.me/fidesosu/count.svg" />
+    </h1>
+</p>
