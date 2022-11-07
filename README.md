@@ -9,5 +9,5 @@
 ![](https://komarev.com/ghpvc/?username=fidesosu&color=373f51)
 
 <p>
-    <a style="margin-left: 100%;"><img src="https://fidesosu.tk/not_related/weeb-uwu.svg"/></a>
+    <a style="margin-left: -100%;"><img src="https://fidesosu.tk/not_related/weeb-uwu.svg"/></a>
 </p>
