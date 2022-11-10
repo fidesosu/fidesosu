@@ -1,5 +1,4 @@
-<p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000 bar_color_cover=falsespo" background="#fff" height="110px">
+# <h1 align="center"> <code>[<img src="https://fidesosu.tk/not_related/fubuki.jpg" height="110px">](https://twitter.com/fidesosu)⠀Hello World! [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21eopzilbov2hl65c7ybwd5za&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=ff0050&bar_color_cover=true)](https://open.spotify.com/user/21eopzilbov2hl65c7ybwd5za)</code> </h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidesosu&layout=compact&theme=calm" />
 </p>
