@@ -1,4 +1,10 @@
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div>
+
+<img src="https://widgetbite.com/stats/fidesosu" alt="watching_count" />
+
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21eopzilbov2hl65c7ybwd5za?si=UpPdmcFIQQ6vpH8hg34HZg)
 
