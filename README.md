@@ -4,9 +4,7 @@
     </div>
 
 <img src="https://widgetbite.com/stats/fidesosu" alt="watching_count" />
-
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21eopzilbov2hl65c7ybwd5za?si=UpPdmcFIQQ6vpH8hg34HZg)
+ [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/fides)
 
 https://open.spotify.com/user/21eopzilbov2hl65c7ybwd5za?si=UpPdmcFIQQ6vpH8hg34HZg
 
