@@ -1,7 +1,4 @@
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
-    </div>
+<img alt="Visitor Stats" src="https://widgetbite.com/stats/fidesosu"/>
 
 <img src="https://widgetbite.com/stats/fidesosu" alt="watching_count" />
 
