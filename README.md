@@ -20,5 +20,6 @@ I'm a developer focused on open-source projects. My interests lie in creating ef
 ### Currently Listening To
 
 <div align="center">
-  ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21eopzilbov2hl65c7ybwd5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
+
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21eopzilbov2hl65c7ybwd5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
 </div>
