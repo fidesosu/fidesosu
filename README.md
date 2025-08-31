@@ -1,5 +1,5 @@
 ### About Me
-I'm a developer focused on open-source projects. My interests lie in creating efficient and practical solutions for various platforms.
+I'm a developer focused on open-source projects. You can use my projects/programs in almost any way you like as long as you don't blatantly copy the project and rebrand it as your own.
 
 ---
 
